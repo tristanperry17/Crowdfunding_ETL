@@ -21,14 +21,14 @@ subcategory varchar (30),
 primary key (subcategory_id)
 );
 
-drop table campaign
+
 create table campaign(
 cf_id integer not null,
 contact_id integer not null,
 company_name varchar,
 description varchar,
-goal varchar,
-pledged varchar,
+goal float,
+pledged float,
 outcome varchar (10),
 backers_count integer,
 country varchar (2),
