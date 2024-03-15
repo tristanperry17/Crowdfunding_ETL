@@ -50,6 +50,6 @@ Finally, upload the CSV file data into a Postgres database.
 
 Data Source:
 
-Provided croudfunding & contacts xlsx files. As well as ipynb srter code notebook.
+Provided croudfunding & contacts xlsx files. As well as ipynb starter code notebook.
 
 Programming Language: Python, Pandas, SQL
